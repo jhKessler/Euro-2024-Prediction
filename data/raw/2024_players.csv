@@ -1,0 +1,311 @@
+No.,Pos.,Player,Date of birth (age),Caps,Goals,Club,Country
+1.0,GK,Manuel Neuer,27 March 1986 (aged 38),118.0,0.0,Bayern Munich,Germany
+22.0,GK,Marc-André ter Stegen,30 April 1992 (aged 32),40.0,0.0,Barcelona,Germany
+12.0,GK,Oliver Baumann,2 June 1990 (aged 34),0.0,0.0,TSG Hoffenheim,Germany
+15.0,GK,Alexander Nübel,30 September 1996 (aged 27),0.0,0.0,VfB Stuttgart,Germany
+6.0,DF,Joshua Kimmich,8 February 1995 (aged 29),85.0,6.0,Bayern Munich,Germany
+2.0,DF,Antonio Rüdiger,3 March 1993 (aged 31),68.0,3.0,Real Madrid,Germany
+4.0,DF,Jonathan Tah,11 February 1996 (aged 28),24.0,0.0,Bayer Leverkusen,Germany
+3.0,DF,David Raum,22 April 1998 (aged 26),20.0,0.0,RB Leipzig,Germany
+20.0,DF,Benjamin Henrichs,23 February 1997 (aged 27),14.0,0.0,RB Leipzig,Germany
+24.0,DF,Robin Koch,17 July 1996 (aged 27),9.0,0.0,Eintracht Frankfurt,Germany
+18.0,DF,Maximilian Mittelstädt,18 March 1997 (aged 27),3.0,1.0,VfB Stuttgart,Germany
+16.0,DF,Waldemar Anton,20 July 1996 (aged 27),2.0,0.0,VfB Stuttgart,Germany
+8.0,MF,Toni Kroos,4 January 1990 (aged 34),108.0,17.0,Real Madrid,Germany
+21.0,MF,İlkay Gündoğan,24 October 1990 (aged 33),76.0,18.0,Barcelona,Germany
+19.0,MF,Leroy Sané,11 January 1996 (aged 28),59.0,13.0,Bayern Munich,Germany
+10.0,MF,Jamal Musiala,26 February 2003 (aged 21),28.0,2.0,Bayern Munich,Germany
+17.0,MF,Florian Wirtz,3 May 2003 (aged 21),17.0,1.0,Bayer Leverkusen,Germany
+5.0,MF,Pascal Groß,15 June 1991 (aged 32),6.0,0.0,Brighton & Hove Albion,Germany
+23.0,MF,Robert Andrich,22 September 1994 (aged 29),4.0,0.0,Bayer Leverkusen,Germany
+11.0,MF,Chris Führich,9 January 1998 (aged 26),4.0,0.0,VfB Stuttgart,Germany
+25.0,MF,Aleksandar Pavlović,3 May 2004 (aged 20),1.0,0.0,Bayern Munich,Germany
+13.0,FW,Thomas Müller,13 September 1989 (aged 34),129.0,45.0,Bayern Munich,Germany
+7.0,FW,Kai Havertz,11 June 1999 (aged 25),45.0,15.0,Arsenal,Germany
+9.0,FW,Niclas Füllkrug,9 February 1993 (aged 31),15.0,11.0,Borussia Dortmund,Germany
+26.0,FW,Deniz Undav,19 July 1996 (aged 27),2.0,0.0,VfB Stuttgart,Germany
+14.0,FW,Maximilian Beier,17 October 2002 (aged 21),1.0,0.0,TSG Hoffenheim,Germany
+1.0,GK,Angus Gunn,22 January 1996 (aged 28),9.0,0.0,Norwich City,Scotland
+2.0,DF,Anthony Ralston,16 November 1998 (aged 25),8.0,1.0,Celtic,Scotland
+3.0,DF,Andrew Robertson,11 March 1994 (aged 30),70.0,3.0,Liverpool,Scotland
+4.0,MF,Scott McTominay,8 December 1996 (aged 27),49.0,8.0,Manchester United,Scotland
+5.0,DF,Grant Hanley,20 November 1991 (aged 32),49.0,2.0,Norwich City,Scotland
+6.0,DF,Kieran Tierney,5 June 1997 (aged 27),44.0,1.0,Real Sociedad,Scotland
+7.0,MF,John McGinn,18 October 1994 (aged 29),67.0,18.0,Aston Villa,Scotland
+8.0,MF,Callum McGregor,14 June 1993 (aged 31),59.0,3.0,Celtic,Scotland
+9.0,FW,Ben Doak,11 November 2005 (aged 18),0.0,0.0,Liverpool,Scotland
+10.0,FW,Ché Adams,13 July 1996 (aged 27),30.0,6.0,Southampton,Scotland
+11.0,MF,Ryan Christie,22 February 1995 (aged 29),48.0,6.0,Bournemouth,Scotland
+12.0,GK,Liam Kelly,23 January 1996 (aged 28),1.0,0.0,Motherwell,Scotland
+13.0,DF,Jack Hendry,7 May 1995 (aged 29),30.0,3.0,Al-Ettifaq,Scotland
+14.0,MF,Billy Gilmour,11 June 2001 (aged 23),26.0,1.0,Brighton & Hove Albion,Scotland
+15.0,DF,Ryan Porteous,25 March 1999 (aged 25),11.0,1.0,Watford,Scotland
+16.0,DF,Liam Cooper,30 August 1991 (aged 32),19.0,0.0,Leeds United,Scotland
+17.0,DF,Greg Taylor,5 November 1997 (aged 26),13.0,0.0,Celtic,Scotland
+18.0,MF,Stuart Armstrong,30 March 1992 (aged 32),50.0,5.0,Southampton,Scotland
+19.0,FW,Lawrence Shankland,10 August 1995 (aged 28),10.0,2.0,Heart of Midlothian,Scotland
+20.0,MF,Ryan Jack,27 February 1992 (aged 32),19.0,0.0,Rangers,Scotland
+21.0,GK,Zander Clark,26 June 1992 (aged 31),4.0,0.0,Heart of Midlothian,Scotland
+22.0,DF,Ross McCrorie,18 March 1998 (aged 26),1.0,0.0,Bristol City,Scotland
+23.0,MF,Kenny McLean,8 January 1992 (aged 32),39.0,2.0,Norwich City,Scotland
+24.0,GK,Craig Gordon,31 December 1982 (aged 41),74.0,0.0,Heart of Midlothian,Scotland
+25.0,FW,James Forrest,7 July 1991 (aged 32),39.0,5.0,Celtic,Scotland
+26.0,DF,Scott McKenna,12 November 1996 (aged 27),34.0,1.0,Copenhagen,Scotland
+27.0,DF,John Souttar,25 September 1996 (aged 27),9.0,1.0,Rangers,Scotland
+1.0,GK,Dominik Livaković,9 January 1995 (aged 29),53.0,0.0,Fenerbahçe,Croatia
+2.0,DF,Josip Stanišić,2 April 2000 (aged 24),17.0,0.0,Bayer Leverkusen,Croatia
+3.0,DF,Marin Pongračić,11 September 1997 (aged 26),7.0,0.0,Lecce,Croatia
+4.0,DF,Joško Gvardiol,23 January 2002 (aged 22),29.0,2.0,Manchester City,Croatia
+5.0,DF,Martin Erlić,24 January 1998 (aged 26),9.0,0.0,Sassuolo,Croatia
+6.0,DF,Josip Šutalo,28 February 2000 (aged 24),13.0,0.0,Ajax,Croatia
+7.0,MF,Lovro Majer,17 January 1998 (aged 26),30.0,8.0,VfL Wolfsburg,Croatia
+8.0,MF,Mateo Kovačić,6 May 1994 (aged 30),100.0,5.0,Manchester City,Croatia
+9.0,FW,Andrej Kramarić,19 June 1991 (aged 32),92.0,28.0,TSG Hoffenheim,Croatia
+10.0,MF,Luka Modrić,9 September 1985 (aged 38),174.0,24.0,Real Madrid,Croatia
+11.0,MF,Marcelo Brozović,16 November 1992 (aged 31),95.0,7.0,Al Nassr,Croatia
+12.0,GK,Nediljko Labrović,10 October 1999 (aged 24),1.0,0.0,Rijeka,Croatia
+13.0,MF,Nikola Vlašić,4 October 1997 (aged 26),55.0,8.0,Torino,Croatia
+14.0,FW,Ivan Perišić,2 February 1989 (aged 35),130.0,33.0,Hajduk Split,Croatia
+15.0,MF,Mario Pašalić,9 February 1995 (aged 29),62.0,10.0,Atalanta,Croatia
+16.0,FW,Ante Budimir,22 July 1991 (aged 32),20.0,2.0,Osasuna,Croatia
+17.0,FW,Bruno Petković,16 September 1994 (aged 29),37.0,11.0,Dinamo Zagreb,Croatia
+18.0,MF,Luka Ivanušec,26 November 1998 (aged 25),20.0,2.0,Feyenoord,Croatia
+19.0,DF,Borna Sosa,21 January 1998 (aged 26),20.0,1.0,Ajax,Croatia
+20.0,FW,Marko Pjaca,6 May 1995 (aged 29),26.0,1.0,Rijeka,Croatia
+21.0,DF,Domagoj Vida,29 April 1989 (aged 35),105.0,4.0,AEK Athens,Croatia
+22.0,DF,Josip Juranović,16 August 1995 (aged 28),37.0,0.0,Union Berlin,Croatia
+23.0,GK,Ivica Ivušić,1 February 1995 (aged 29),6.0,0.0,Pafos,Croatia
+24.0,FW,Marco Pašalić,14 September 2000 (aged 23),5.0,1.0,Rijeka,Croatia
+25.0,MF,Luka Sučić,8 September 2002 (aged 21),6.0,0.0,Red Bull Salzburg,Croatia
+26.0,MF,Martin Baturina,16 February 2003 (aged 21),3.0,0.0,Dinamo Zagreb,Croatia
+1.0,GK,Etrit Berisha,10 March 1989 (aged 35),81.0,0.0,Empoli,Albania
+2.0,DF,Iván Balliu,1 January 1992 (aged 32),13.0,0.0,Rayo Vallecano,Albania
+3.0,DF,Mario Mitaj,6 August 2003 (aged 20),13.0,0.0,Lokomotiv Moscow,Albania
+4.0,DF,Elseid Hysaj,2 February 1994 (aged 30),84.0,2.0,Lazio,Albania
+5.0,DF,Arlind Ajeti,25 September 1993 (aged 30),25.0,1.0,CFR Cluj,Albania
+6.0,DF,Berat Djimsiti,19 February 1993 (aged 31),57.0,1.0,Atalanta,Albania
+7.0,FW,Rey Manaj,24 February 1997 (aged 27),33.0,7.0,Sivasspor,Albania
+8.0,MF,Klaus Gjasula,14 December 1989 (aged 34),28.0,0.0,Darmstadt 98,Albania
+9.0,FW,Jasir Asani,19 May 1995 (aged 29),12.0,4.0,Gwangju,Albania
+10.0,MF,Nedim Bajrami,28 February 1999 (aged 25),22.0,3.0,Sassuolo,Albania
+11.0,FW,Armando Broja,10 September 2001 (aged 22),20.0,5.0,Fulham,Albania
+12.0,GK,Elhan Kastrati,2 February 1997 (aged 27),2.0,0.0,Cittadella,Albania
+13.0,DF,Enea Mihaj,5 July 1998 (aged 25),18.0,0.0,Famalicão,Albania
+14.0,MF,Qazim Laçi,19 January 1996 (aged 28),26.0,2.0,Sparta Prague,Albania
+15.0,FW,Taulant Seferi,15 November 1996 (aged 27),18.0,3.0,Baniyas,Albania
+16.0,MF,Medon Berisha,21 October 2003 (aged 20),1.0,0.0,Lecce,Albania
+17.0,MF,Ernest Muçi,19 March 2001 (aged 23),10.0,3.0,Beşiktaş,Albania
+18.0,DF,Ardian Ismajli,30 September 1996 (aged 27),37.0,2.0,Empoli,Albania
+19.0,FW,Mirlind Daku,1 January 1998 (aged 26),5.0,1.0,Rubin Kazan,Albania
+20.0,MF,Ylber Ramadani,12 April 1996 (aged 28),34.0,1.0,Lecce,Albania
+21.0,MF,Kristjan Asllani,9 March 2002 (aged 22),19.0,2.0,Inter Milan,Albania
+22.0,MF,Amir Abrashi,27 March 1990 (aged 34),50.0,1.0,Grasshoppers,Albania
+23.0,GK,Thomas Strakosha,19 March 1995 (aged 29),27.0,0.0,Brentford,Albania
+24.0,DF,Marash Kumbulla,8 February 2000 (aged 24),19.0,0.0,Sassuolo,Albania
+25.0,DF,Naser Aliji,27 December 1993 (aged 30),13.0,0.0,Voluntari,Albania
+26.0,FW,Arbër Hoxha,6 October 1998 (aged 25),3.0,0.0,Dinamo Zagreb,Albania
+1.0,GK,Jan Oblak,7 January 1993 (aged 31),64.0,0.0,Atlético Madrid,Slovenia
+12.0,GK,Vid Belec,6 June 1990 (aged 34),20.0,0.0,APOEL,Slovenia
+16.0,GK,Igor Vekić,6 May 1998 (aged 26),1.0,0.0,Vejle,Slovenia
+20.0,DF,Petar Stojanović,7 October 1995 (aged 28),52.0,2.0,Sampdoria,Slovenia
+6.0,DF,Jaka Bijol,5 February 1999 (aged 25),47.0,1.0,Udinese,Slovenia
+3.0,DF,Jure Balkovec,9 September 1994 (aged 29),32.0,0.0,Alanyaspor,Slovenia
+4.0,DF,Miha Blažič,8 May 1993 (aged 31),32.0,0.0,Lech Poznań,Slovenia
+2.0,DF,Žan Karničnik,18 September 1994 (aged 29),26.0,1.0,Celje,Slovenia
+23.0,DF,David Brekalo,3 December 1998 (aged 25),12.0,1.0,Orlando City,Slovenia
+13.0,DF,Erik Janža,21 June 1993 (aged 30),8.0,2.0,Górnik Zabrze,Slovenia
+21.0,DF,Vanja Drkušić,30 October 1999 (aged 24),6.0,0.0,Sochi,Slovenia
+14.0,MF,Jasmin Kurtić,10 January 1989 (aged 35),90.0,2.0,Südtirol,Slovenia
+7.0,MF,Benjamin Verbič,27 November 1993 (aged 30),58.0,6.0,Panathinaikos,Slovenia
+8.0,MF,Sandi Lovrić,28 March 1998 (aged 26),33.0,4.0,Udinese,Slovenia
+22.0,MF,Adam Gnezda Čerin,16 July 1999 (aged 24),29.0,4.0,Panathinaikos,Slovenia
+5.0,MF,Jon Gorenc Stanković,14 January 1996 (aged 28),22.0,1.0,Sturm Graz,Slovenia
+10.0,MF,Timi Max Elšnik,29 April 1998 (aged 26),13.0,1.0,Olimpija Ljubljana,Slovenia
+15.0,MF,Tomi Horvat,24 March 1999 (aged 25),5.0,0.0,Sturm Graz,Slovenia
+24.0,MF,Nino Žugelj,23 May 2000 (aged 24),0.0,0.0,Bodø/Glimt,Slovenia
+9.0,FW,Andraž Šporar,27 February 1994 (aged 30),51.0,11.0,Panathinaikos,Slovenia
+11.0,FW,Benjamin Šeško,31 May 2003 (aged 21),28.0,11.0,RB Leipzig,Slovenia
+17.0,FW,Jan Mlakar,23 October 1998 (aged 25),15.0,2.0,Pisa,Slovenia
+19.0,FW,Žan Celar,14 March 1999 (aged 25),9.0,0.0,Lugano,Slovenia
+18.0,FW,Žan Vipotnik,18 March 2002 (aged 22),8.0,2.0,Bordeaux,Slovenia
+1.0,GK,Kasper Schmeichel,5 November 1986 (aged 37),100.0,0.0,Anderlecht,Denmark
+2.0,DF,Joachim Andersen,31 May 1996 (aged 28),30.0,0.0,Crystal Palace,Denmark
+3.0,DF,Jannik Vestergaard,3 August 1992 (aged 31),39.0,2.0,Leicester City,Denmark
+4.0,DF,Simon Kjær,26 March 1989 (aged 35),131.0,5.0,Milan,Denmark
+5.0,DF,Joakim Mæhle,20 May 1997 (aged 27),43.0,11.0,VfL Wolfsburg,Denmark
+6.0,DF,Andreas Christensen,10 April 1996 (aged 28),68.0,3.0,Barcelona,Denmark
+7.0,MF,Mathias Jensen,1 January 1996 (aged 28),30.0,1.0,Brentford,Denmark
+8.0,MF,Thomas Delaney,3 September 1991 (aged 32),76.0,8.0,Anderlecht,Denmark
+9.0,FW,Rasmus Højlund,4 February 2003 (aged 21),12.0,7.0,Manchester United,Denmark
+10.0,MF,Christian Eriksen,14 February 1992 (aged 32),128.0,40.0,Manchester United,Denmark
+11.0,MF,Andreas Skov Olsen,29 December 1999 (aged 24),29.0,8.0,Club Brugge,Denmark
+12.0,FW,Kasper Dolberg,6 October 1997 (aged 26),45.0,11.0,Anderlecht,Denmark
+13.0,DF,Rasmus Kristensen,11 July 1997 (aged 26),20.0,0.0,Roma,Denmark
+14.0,MF,Mikkel Damsgaard,3 July 2000 (aged 23),26.0,4.0,Brentford,Denmark
+15.0,MF,Christian Nørgaard,10 March 1994 (aged 30),24.0,1.0,Brentford,Denmark
+16.0,GK,Mads Hermansen,11 July 2000 (aged 23),0.0,0.0,Leicester City,Denmark
+17.0,DF,Victor Kristiansen,16 December 2002 (aged 21),6.0,0.0,Bologna,Denmark
+18.0,DF,Alexander Bah,9 December 1997 (aged 26),9.0,1.0,Benfica,Denmark
+19.0,FW,Jonas Wind,7 February 1999 (aged 25),26.0,8.0,VfL Wolfsburg,Denmark
+20.0,FW,Yussuf Poulsen,15 June 1994 (aged 29),77.0,12.0,RB Leipzig,Denmark
+21.0,FW,Jacob Bruun Larsen,19 September 1998 (aged 25),6.0,1.0,Burnley,Denmark
+22.0,GK,Frederik Rønnow,4 August 1992 (aged 31),8.0,0.0,Union Berlin,Denmark
+23.0,MF,Pierre-Emile Højbjerg,5 August 1995 (aged 28),75.0,8.0,Tottenham Hotspur,Denmark
+24.0,MF,Morten Hjulmand,25 June 1999 (aged 24),5.0,0.0,Sporting CP,Denmark
+25.0,DF,Victor Nelsson,14 October 1998 (aged 25),12.0,0.0,Galatasaray,Denmark
+26.0,FW,Anders Dreyer,2 May 1998 (aged 26),2.0,0.0,Anderlecht,Denmark
+1.0,GK,Bart Verbruggen,18 August 2002 (aged 21),5.0,0.0,Brighton & Hove Albion,Netherlands
+2.0,DF,Micky van de Ven,19 April 2001 (aged 23),2.0,0.0,Tottenham Hotspur,Netherlands
+3.0,DF,Matthijs de Ligt,12 August 1999 (aged 24),44.0,2.0,Bayern Munich,Netherlands
+4.0,DF,Virgil van Dijk,8 July 1991 (aged 32),66.0,7.0,Liverpool,Netherlands
+5.0,DF,Nathan Aké,18 February 1995 (aged 29),44.0,5.0,Manchester City,Netherlands
+6.0,DF,Stefan de Vrij,5 February 1992 (aged 32),62.0,3.0,Inter Milan,Netherlands
+7.0,FW,Steven Bergwijn,8 October 1997 (aged 26),32.0,8.0,Ajax,Netherlands
+8.0,MF,Georginio Wijnaldum,11 November 1990 (aged 33),91.0,28.0,Al-Ettifaq,Netherlands
+9.0,FW,Wout Weghorst,7 August 1992 (aged 31),31.0,9.0,TSG Hoffenheim,Netherlands
+10.0,FW,Memphis Depay,13 February 1994 (aged 30),90.0,44.0,Atlético Madrid,Netherlands
+11.0,FW,Cody Gakpo,7 May 1999 (aged 25),23.0,9.0,Liverpool,Netherlands
+12.0,DF,Jeremie Frimpong,10 December 2000 (aged 23),2.0,0.0,Bayer Leverkusen,Netherlands
+13.0,GK,Justin Bijlow,22 January 1998 (aged 26),8.0,0.0,Feyenoord,Netherlands
+14.0,MF,Tijjani Reijnders,29 July 1998 (aged 25),8.0,1.0,Milan,Netherlands
+15.0,DF,Lutsharel Geertruida,18 July 2000 (aged 23),7.0,0.0,Feyenoord,Netherlands
+16.0,MF,Joey Veerman,19 November 1998 (aged 25),8.0,1.0,PSV Eindhoven,Netherlands
+17.0,DF,Daley Blind,9 March 1990 (aged 34),106.0,3.0,Girona,Netherlands
+18.0,FW,Donyell Malen,19 January 1999 (aged 25),30.0,6.0,Borussia Dortmund,Netherlands
+19.0,MF,Xavi Simons,21 April 2003 (aged 21),13.0,0.0,RB Leipzig,Netherlands
+20.0,MF,Teun Koopmeiners,28 February 1998 (aged 26),21.0,2.0,Atalanta,Netherlands
+21.0,MF,Frenkie de Jong,12 May 1997 (aged 27),54.0,2.0,Barcelona,Netherlands
+22.0,DF,Denzel Dumfries,18 April 1996 (aged 28),52.0,6.0,Inter Milan,Netherlands
+23.0,GK,Mark Flekken,13 June 1993 (aged 31),7.0,0.0,Brentford,Netherlands
+24.0,MF,Ryan Gravenberch,16 May 2002 (aged 22),11.0,1.0,Liverpool,Netherlands
+25.0,FW,Brian Brobbey,1 February 2002 (aged 22),1.0,0.0,Ajax,Netherlands
+26.0,MF,Jerdy Schouten,12 January 1997 (aged 27),3.0,0.0,PSV Eindhoven,Netherlands
+1.0,GK,Brice Samba,26 April 1994 (aged 30),3.0,0.0,Lens,France
+2.0,DF,Benjamin Pavard,28 March 1996 (aged 28),53.0,5.0,Inter Milan,France
+3.0,DF,Ferland Mendy,8 June 1995 (aged 29),9.0,0.0,Real Madrid,France
+4.0,DF,Dayot Upamecano,27 October 1998 (aged 25),18.0,2.0,Bayern Munich,France
+5.0,DF,Jules Koundé,12 November 1998 (aged 25),26.0,0.0,Barcelona,France
+6.0,MF,Eduardo Camavinga,10 November 2002 (aged 21),15.0,1.0,Real Madrid,France
+7.0,FW,Antoine Griezmann,21 March 1991 (aged 33),127.0,44.0,Atlético Madrid,France
+8.0,MF,Aurélien Tchouaméni,27 January 2000 (aged 24),31.0,3.0,Real Madrid,France
+9.0,FW,Olivier Giroud,30 September 1986 (aged 37),131.0,57.0,Milan,France
+10.0,FW,Kylian Mbappé,20 December 1998 (aged 25),77.0,46.0,Paris Saint-Germain,France
+11.0,FW,Ousmane Dembélé,15 May 1997 (aged 27),43.0,5.0,Paris Saint-Germain,France
+12.0,FW,Randal Kolo Muani,5 December 1998 (aged 25),15.0,3.0,Paris Saint-Germain,France
+13.0,MF,N'Golo Kanté,29 March 1991 (aged 33),53.0,2.0,Al-Ittihad,France
+14.0,MF,Adrien Rabiot,3 April 1995 (aged 29),43.0,4.0,Juventus,France
+15.0,FW,Marcus Thuram,6 August 1997 (aged 26),18.0,2.0,Inter Milan,France
+16.0,GK,Mike Maignan,3 July 1995 (aged 28),14.0,0.0,Milan,France
+17.0,DF,William Saliba,24 March 2001 (aged 23),13.0,0.0,Arsenal,France
+18.0,MF,Warren Zaïre-Emery,8 March 2006 (aged 18),2.0,1.0,Paris Saint-Germain,France
+19.0,MF,Youssouf Fofana,10 January 1999 (aged 25),17.0,3.0,Monaco[a],France
+20.0,FW,Kingsley Coman,13 June 1996 (aged 28),55.0,8.0,Bayern Munich,France
+21.0,DF,Jonathan Clauss,25 September 1992 (aged 31),12.0,1.0,Marseille,France
+22.0,DF,Théo Hernandez,6 October 1997 (aged 26),25.0,2.0,Milan,France
+23.0,GK,Alphonse Areola,27 February 1993 (aged 31),5.0,0.0,West Ham United,France
+24.0,DF,Ibrahima Konaté,25 May 1999 (aged 25),14.0,0.0,Liverpool,France
+25.0,FW,Bradley Barcola,2 September 2002 (aged 21),0.0,0.0,Paris Saint-Germain,France
+1.0,GK,Heorhiy Bushchan,31 May 1994 (aged 30),17.0,0.0,Dynamo Kyiv,Ukraine
+2.0,DF,Yukhym Konoplya,26 August 1999 (aged 24),13.0,1.0,Shakhtar Donetsk,Ukraine
+3.0,DF,Oleksandr Svatok,27 September 1994 (aged 29),6.0,0.0,Dnipro-1,Ukraine
+4.0,DF,Maksym Taloverov,28 June 2000 (aged 23),2.0,0.0,LASK,Ukraine
+5.0,MF,Serhiy Sydorchuk,2 May 1991 (aged 33),60.0,3.0,Westerlo,Ukraine
+6.0,MF,Taras Stepanenko,8 August 1989 (aged 34),82.0,4.0,Shakhtar Donetsk,Ukraine
+7.0,FW,Andriy Yarmolenko,23 October 1989 (aged 34),117.0,46.0,Dynamo Kyiv,Ukraine
+8.0,MF,Ruslan Malinovskyi,4 May 1993 (aged 31),59.0,7.0,Genoa,Ukraine
+9.0,FW,Roman Yaremchuk,27 November 1995 (aged 28),49.0,14.0,Valencia,Ukraine
+10.0,MF,Mykhaylo Mudryk,5 January 2001 (aged 23),19.0,2.0,Chelsea,Ukraine
+11.0,FW,Artem Dovbyk,21 June 1997 (aged 26),26.0,8.0,Girona,Ukraine
+12.0,GK,Anatoliy Trubin,1 August 2001 (aged 22),11.0,0.0,Benfica,Ukraine
+13.0,DF,Illya Zabarnyi,1 September 2002 (aged 21),35.0,1.0,Bournemouth,Ukraine
+14.0,MF,Heorhiy Sudakov,1 September 2002 (aged 21),15.0,1.0,Shakhtar Donetsk,Ukraine
+15.0,MF,Viktor Tsyhankov,15 November 1997 (aged 26),52.0,12.0,Girona,Ukraine
+16.0,DF,Vitaliy Mykolenko,29 May 1999 (aged 25),39.0,1.0,Everton,Ukraine
+17.0,MF,Oleksandr Zinchenko,15 December 1996 (aged 27),61.0,9.0,Arsenal,Ukraine
+18.0,MF,Volodymyr Brazhko,23 January 2002 (aged 22),3.0,0.0,Dynamo Kyiv,Ukraine
+19.0,MF,Mykola Shaparenko,4 October 1998 (aged 25),29.0,1.0,Dynamo Kyiv,Ukraine
+20.0,FW,Oleksandr Zubkov,3 August 1996 (aged 27),31.0,2.0,Shakhtar Donetsk,Ukraine
+21.0,DF,Valeriy Bondar,27 February 1999 (aged 25),3.0,0.0,Shakhtar Donetsk,Ukraine
+22.0,DF,Mykola Matviyenko,2 May 1996 (aged 28),64.0,0.0,Shakhtar Donetsk,Ukraine
+23.0,GK,Andriy Lunin,11 February 1999 (aged 25),11.0,0.0,Real Madrid,Ukraine
+24.0,DF,Oleksandr Tymchyk,20 January 1997 (aged 27),15.0,1.0,Dynamo Kyiv,Ukraine
+25.0,FW,Vladyslav Vanat,4 January 2002 (aged 22),5.0,0.0,Dynamo Kyiv,Ukraine
+26.0,DF,Bohdan Mykhaylichenko,21 March 1997 (aged 27),7.0,0.0,Polissya Zhytomyr,Ukraine
+1.0,GK,Giorgi Loria,27 January 1986 (aged 38),78.0,0.0,Dinamo Tbilisi,Georgia
+2.0,DF,Otar Kakabadze,27 June 1995 (aged 28),60.0,0.0,Cracovia,Georgia
+3.0,DF,Lasha Dvali,14 May 1995 (aged 29),31.0,1.0,APOEL,Georgia
+4.0,DF,Guram Kashia,4 July 1987 (aged 36),112.0,3.0,Slovan Bratislava,Georgia
+5.0,DF,Solomon Kvirkvelia,6 February 1992 (aged 32),58.0,0.0,Al-Okhdood,Georgia
+6.0,MF,Giorgi Kochorashvili,19 June 1999 (aged 24),7.0,0.0,Levante,Georgia
+7.0,FW,Khvicha Kvaratskhelia,12 February 2001 (aged 23),29.0,15.0,Napoli,Georgia
+8.0,FW,Budu Zivzivadze,10 March 1994 (aged 30),25.0,7.0,Karlsruher SC,Georgia
+9.0,MF,Zuriko Davitashvili,15 February 2001 (aged 23),34.0,6.0,Bordeaux,Georgia
+10.0,MF,Giorgi Chakvetadze,29 August 1999 (aged 24),24.0,8.0,Watford,Georgia
+11.0,FW,Giorgi Kvilitaia,1 October 1993 (aged 30),37.0,6.0,APOEL,Georgia
+12.0,GK,Giorgi Mamardashvili,29 September 2000 (aged 23),16.0,0.0,Valencia,Georgia
+13.0,DF,Giorgi Gocholeishvili,14 February 2001 (aged 23),8.0,0.0,Shakhtar Donetsk,Georgia
+14.0,DF,Luka Lochoshvili,29 May 1998 (aged 26),10.0,1.0,Cremonese,Georgia
+15.0,DF,Giorgi Gvelesiani,5 April 1991 (aged 33),0.0,0.0,Persepolis,Georgia
+16.0,MF,Nika Kvekveskiri,29 May 1992 (aged 32),59.0,0.0,Lech Poznań,Georgia
+17.0,MF,Otar Kiteishvili,26 March 1996 (aged 28),36.0,2.0,Sturm Graz,Georgia
+18.0,MF,Saba Lobzhanidze,18 December 1994 (aged 29),36.0,3.0,Atlanta United,Georgia
+19.0,MF,Levan Shengelia,27 October 1995 (aged 28),16.0,1.0,Panetolikos,Georgia
+20.0,MF,Gabriel Sigua,30 June 2005 (aged 18),2.0,0.0,Basel,Georgia
+21.0,MF,Giorgi Tsitaishvili,18 November 2000 (aged 23),16.0,1.0,Dinamo Batumi,Georgia
+22.0,FW,Georges Mikautadze,31 October 2000 (aged 23),24.0,9.0,Metz,Georgia
+23.0,GK,Luka Gugeshashvili,29 April 1999 (aged 25),1.0,0.0,Qarabağ,Georgia
+24.0,DF,Jemal Tabidze,18 March 1996 (aged 28),15.0,1.0,Panetolikos,Georgia
+25.0,MF,Sandro Altunashvili,19 May 1997 (aged 27),4.0,0.0,Wolfsberger AC,Georgia
+26.0,MF,Anzor Mekvabishvili,5 June 2001 (aged 23),13.0,0.0,Universitatea Craiova,Georgia
+1.0,GK,Rui Patrício,15 February 1988 (aged 36),108.0,0.0,Roma,Portugal
+2.0,DF,Nélson Semedo,16 November 1993 (aged 30),28.0,0.0,Wolverhampton Wanderers,Portugal
+3.0,DF,Pepe,26 February 1983 (aged 41),136.0,8.0,Porto,Portugal
+4.0,DF,Rúben Dias,14 May 1997 (aged 27),54.0,2.0,Manchester City,Portugal
+5.0,DF,Diogo Dalot,18 March 1999 (aged 25),17.0,2.0,Manchester United,Portugal
+6.0,MF,João Palhinha,9 July 1995 (aged 28),25.0,2.0,Fulham,Portugal
+7.0,FW,Cristiano Ronaldo,5 February 1985 (aged 39),206.0,128.0,Al Nassr,Portugal
+8.0,MF,Bruno Fernandes,8 September 1994 (aged 29),64.0,20.0,Manchester United,Portugal
+9.0,FW,Gonçalo Ramos,20 June 2001 (aged 22),11.0,8.0,Paris Saint-Germain,Portugal
+10.0,FW,Bernardo Silva,10 August 1994 (aged 29),88.0,11.0,Manchester City,Portugal
+11.0,FW,João Félix,10 November 1999 (aged 24),37.0,7.0,Barcelona,Portugal
+12.0,GK,José Sá,17 January 1993 (aged 31),1.0,0.0,Wolverhampton Wanderers,Portugal
+13.0,DF,Danilo Pereira,9 September 1991 (aged 32),71.0,2.0,Paris Saint-Germain,Portugal
+14.0,DF,Gonçalo Inácio,25 August 2001 (aged 22),6.0,2.0,Sporting CP,Portugal
+15.0,MF,João Neves,27 September 2004 (aged 19),5.0,0.0,Benfica,Portugal
+16.0,MF,Matheus Nunes,27 August 1998 (aged 25),12.0,2.0,Manchester City,Portugal
+17.0,FW,Rafael Leão,10 June 1999 (aged 25),24.0,4.0,Milan,Portugal
+18.0,MF,Rúben Neves,13 March 1997 (aged 27),46.0,0.0,Al Hilal,Portugal
+19.0,DF,Nuno Mendes,19 June 2002 (aged 21),20.0,0.0,Paris Saint-Germain,Portugal
+20.0,DF,João Cancelo,27 May 1994 (aged 30),51.0,10.0,Barcelona,Portugal
+21.0,FW,Diogo Jota,4 December 1996 (aged 27),36.0,12.0,Liverpool,Portugal
+22.0,GK,Diogo Costa,19 September 1999 (aged 24),20.0,0.0,Porto,Portugal
+23.0,MF,Vitinha,13 February 2000 (aged 24),15.0,0.0,Paris Saint-Germain,Portugal
+24.0,DF,António Silva,30 October 2003 (aged 20),9.0,0.0,Benfica,Portugal
+25.0,FW,Pedro Neto,9 March 2000 (aged 24),5.0,1.0,Wolverhampton Wanderers,Portugal
+26.0,FW,Francisco Conceição,14 December 2002 (aged 21),1.0,0.0,Porto,Portugal
+1.0,GK,Jindřich Staněk,27 April 1996 (aged 28),9.0,0.0,Slavia Prague,Czech Republic
+2.0,DF,David Zima,8 November 2000 (aged 23),20.0,1.0,Slavia Prague,Czech Republic
+3.0,DF,Tomáš Holeš,31 March 1993 (aged 31),27.0,2.0,Slavia Prague,Czech Republic
+4.0,DF,Ladislav Krejčí,20 April 1999 (aged 25),9.0,3.0,Sparta Prague,Czech Republic
+5.0,DF,Vladimír Coufal,22 August 1992 (aged 31),40.0,1.0,West Ham United,Czech Republic
+6.0,DF,Martin Vitík,21 January 2003 (aged 21),1.0,0.0,Sparta Prague,Czech Republic
+7.0,MF,Antonín Barák,3 December 1994 (aged 29),39.0,9.0,Fiorentina,Czech Republic
+8.0,MF,Michal Sadílek,31 May 1999 (aged 25),23.0,1.0,Twente,Czech Republic
+9.0,FW,Adam Hložek,25 July 2002 (aged 21),31.0,2.0,Bayer Leverkusen,Czech Republic
+10.0,FW,Patrik Schick,24 January 1996 (aged 28),37.0,18.0,Bayer Leverkusen,Czech Republic
+11.0,MF,Pavel Šulc,29 December 2000 (aged 23),1.0,0.0,Viktoria Plzeň,Czech Republic
+12.0,MF,Matěj Jurásek,30 August 2003 (aged 20),1.0,0.0,Slavia Prague,Czech Republic
+13.0,FW,Mojmír Chytil,29 April 1999 (aged 25),12.0,4.0,Slavia Prague,Czech Republic
+14.0,MF,Lukáš Provod,23 October 1996 (aged 27),18.0,2.0,Slavia Prague,Czech Republic
+15.0,DF,David Jurásek,7 August 2000 (aged 23),7.0,0.0,TSG Hoffenheim,Czech Republic
+16.0,GK,Matěj Kovář,17 May 2000 (aged 24),1.0,0.0,Bayer Leverkusen,Czech Republic
+17.0,DF,Tomáš Vlček,28 February 2001 (aged 23),1.0,0.0,Slavia Prague,Czech Republic
+18.0,DF,David Douděra,31 May 1998 (aged 26),8.0,1.0,Slavia Prague,Czech Republic
+19.0,FW,Tomáš Chorý,26 January 1995 (aged 29),3.0,2.0,Viktoria Plzeň,Czech Republic
+20.0,MF,Ondřej Lingr,7 October 1998 (aged 25),13.0,0.0,Feyenoord,Czech Republic
+21.0,DF,Robin Hranáč,29 January 2000 (aged 24),1.0,0.0,Viktoria Plzeň,Czech Republic
+22.0,MF,Tomáš Souček,27 February 1995 (aged 29),68.0,12.0,West Ham United,Czech Republic
+23.0,GK,Vítězslav Jaroš,23 July 2001 (aged 22),0.0,0.0,Sturm Graz,Czech Republic
+24.0,FW,Václav Černý,17 October 1997 (aged 26),15.0,5.0,VfL Wolfsburg,Czech Republic
+25.0,MF,Lukáš Červ,10 April 2001 (aged 23),0.0,0.0,Viktoria Plzeň,Czech Republic
+26.0,FW,Jan Kuchta,8 January 1997 (aged 27),20.0,2.0,Sparta Prague,Czech Republic

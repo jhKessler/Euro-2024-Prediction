@@ -1,0 +1,243 @@
+No.;Pos.;Player;Date of birth (age);Caps;Goals;Club;Country;MarketValue
+1;GK;Hugo Lloris;26 December 1986 (aged 29);75;0;Tottenham Hotspur;France;23333333.333333332
+2;DF;Christophe Jallet;31 October 1983 (aged 32);11;1;Lyon;France;2000000.0
+3;DF;Patrice Evra;15 May 1981 (aged 35);73;0;Juventus;France;1333333.3333333333
+4;DF;Adil Rami;27 December 1985 (aged 30);28;1;Sevilla;France;6750000.0
+5;MF;N'Golo Kanté;29 March 1991 (aged 25);4;1;Leicester City;France;20000000.0
+6;MF;Yohan Cabaye;14 January 1986 (aged 30);46;4;Crystal Palace;France;18000000.0
+7;FW;Antoine Griezmann;21 March 1991 (aged 25);27;7;Atlético Madrid;France;70000000.0
+8;MF;Dimitri Payet;29 March 1987 (aged 29);19;3;West Ham United;France;23666666.666666668
+9;FW;Olivier Giroud;30 September 1986 (aged 29);49;17;Arsenal;France;25666666.666666668
+10;FW;André-Pierre Gignac;5 December 1985 (aged 30);27;7;UANL;France;7666666.666666667
+11;FW;Anthony Martial;5 December 1995 (aged 20);9;0;Manchester United;France;31333333.333333332
+12;MF;Morgan Schneiderlin;8 November 1989 (aged 26);15;0;Manchester United;France;29333333.333333332
+13;DF;Eliaquim Mangala;13 February 1991 (aged 25);7;0;Manchester City;France;24000000.0
+14;MF;Blaise Matuidi;9 April 1987 (aged 29);44;8;Paris Saint-Germain;France;30000000.0
+15;MF;Paul Pogba;15 March 1993 (aged 23);31;5;Juventus;France;68000000.0
+16;GK;Steve Mandanda;28 March 1985 (aged 31);22;0;Marseille;France;10000000.0
+17;DF;Lucas Digne;20 July 1993 (aged 22);13;0;Roma;France;12666666.666666666
+18;MF;Moussa Sissoko;16 August 1989 (aged 26);38;1;Newcastle United;France;16500000.0
+19;DF;Bacary Sagna;14 February 1983 (aged 33);57;0;Manchester City;France;7333333.333333333
+20;FW;Kingsley Coman;13 June 1996 (aged 19);5;1;Bayern Munich;France;17333333.333333332
+21;DF;Laurent Koscielny;10 September 1985 (aged 30);29;1;Arsenal;France;22000000.0
+22;DF;Samuel Umtiti;14 November 1993 (aged 22);0;0;Lyon;France;17333333.333333332
+23;GK;Benoît Costil;3 July 1987 (aged 28);0;0;Rennes;France;7833333.333333333
+1;GK;Costel Pantilimon;1 February 1987 (aged 29);22;0;Watford;Romania;5000000.0
+2;DF;Alexandru Mățel;17 October 1989 (aged 26);16;0;Dinamo Zagreb;Romania;916666.6666666666
+3;DF;Răzvan Raț;26 May 1981 (aged 35);111;2;Rayo Vallecano;Romania;566666.6666666666
+4;DF;Cosmin Moți;3 December 1984 (aged 31);8;0;Ludogorets Razgrad;Romania;1225000.0
+5;MF;Ovidiu Hoban;27 December 1982 (aged 33);20;1;Hapoel Be'er Sheva;Romania;800000.0
+6;DF;Vlad Chiricheș;14 November 1989 (aged 26);40;0;Napoli;Romania;5750000.0
+7;MF;Alexandru Chipciu;18 May 1989 (aged 27);21;3;Steaua București;Romania;2000000.0
+8;MF;Mihai Pintilii;9 November 1984 (aged 31);31;1;Steaua București;Romania;850000.0
+9;FW;Denis Alibec;5 January 1991 (aged 25);4;1;Astra Giurgiu;Romania;2500000.0
+10;MF;Nicolae Stanciu;7 May 1993 (aged 23);5;4;Steaua București;Romania;5750000.0
+11;MF;Gabriel Torje;22 November 1989 (aged 26);50;11;Osmanlıspor;Romania;3750000.0
+12;GK;Ciprian Tătărușanu;9 February 1986 (aged 30);36;0;Fiorentina;Romania;5000000.0
+13;FW;Claudiu Keșerü;2 December 1986 (aged 29);13;5;Ludogorets Razgrad;Romania;4000000.0
+14;FW;Florin Andone;11 April 1993 (aged 23);6;1;Córdoba;Romania;2500000.0
+15;DF;Valerică Găman;25 February 1989 (aged 27);13;1;Astra Giurgiu;Romania;2200000.0
+16;DF;Steliano Filip;15 May 1994 (aged 22);4;0;Dinamo București;Romania;1125000.0
+17;MF;Lucian Sânmărtean;13 March 1980 (aged 36);20;0;Al-Ittihad;Romania;250000.0
+18;MF;Andrei Prepeliță;8 December 1985 (aged 30);10;0;Ludogorets Razgrad;Romania;1766666.6666666667
+19;FW;Bogdan Stancu;28 June 1987 (aged 28);40;9;Gençlerbirliği;Romania;4000000.0
+20;MF;Adrian Popa;24 July 1988 (aged 27);14;1;Steaua București;Romania;1900000.0
+21;DF;Dragoș Grigore;7 September 1986 (aged 29);20;0;Al-Sailiya;Romania;1600000.0
+22;DF;Cristian Săpunaru;5 April 1984 (aged 32);13;0;Pandurii Târgu Jiu;Romania;1000000.0
+23;GK;Silviu Lung Jr.;4 June 1989 (aged 27);3;0;Astra Giurgiu;Romania;2400000.0
+1;GK;Etrit Berisha;10 March 1989 (aged 27);35;0;Lazio;Albania;3833333.3333333335
+2;DF;Andi Lila;12 February 1986 (aged 30);58;0;PAS Giannina;Albania;666666.6666666666
+3;MF;Ermir Lenjani;5 August 1989 (aged 26);19;3;Nantes;Albania;1166666.6666666667
+4;DF;Elseid Hysaj;20 February 1994 (aged 22);20;0;Napoli;Albania;11333333.333333334
+5;DF;Lorik Cana;27 June 1983 (aged 32);91;1;Nantes;Albania;1000000.0
+6;DF;Frédéric Veseli;20 November 1992 (aged 23);3;0;Lugano;Albania;800000.0
+7;DF;Ansi Agolli;11 November 1982 (aged 33);61;2;Qarabağ;Albania;300000.0
+8;MF;Migjen Basha;5 January 1987 (aged 29);19;3;Como;Albania;750000.0
+9;MF;Ledian Memushaj;7 December 1986 (aged 29);14;0;Pescara;Albania;2250000.0
+10;FW;Armando Sadiku;27 May 1991 (aged 25);20;5;Vaduz;Albania;750000.0
+11;FW;Shkëlzen Gashi;15 July 1988 (aged 27);14;1;Colorado Rapids;Albania;2666666.6666666665
+12;GK;Orges Shehi;25 September 1977 (aged 38);7;0;Skënderbeu Korçë;Albania;137500.0
+13;MF;Burim Kukeli;16 January 1984 (aged 32);15;0;Zürich;Albania;433333.3333333333
+14;MF;Taulant Xhaka;28 March 1991 (aged 25);12;0;Basel;Albania;4000000.0
+15;DF;Mërgim Mavraj;9 June 1986 (aged 30);26;3;1. FC Köln;Albania;1666666.6666666667
+16;FW;Sokol Cikalleshi;27 July 1990 (aged 25);19;2;İstanbul Başakşehir;Albania;2633333.3333333335
+17;DF;Naser Aliji;27 December 1993 (aged 22);5;0;Basel;Albania;700000.0
+18;DF;Arlind Ajeti;25 September 1993 (aged 22);10;1;Frosinone;Albania;1200000.0
+19;FW;Bekim Balaj;11 January 1991 (aged 25);15;1;Rijeka;Albania;2333333.3333333335
+20;MF;Ergys Kaçe;8 July 1993 (aged 22);16;2;PAOK;Albania;2750000.0
+21;MF;Odise Roshi;21 May 1991 (aged 25);32;1;Rijeka;Albania;600000.0
+22;MF;Amir Abrashi;27 March 1990 (aged 26);18;0;SC Freiburg;Albania;2416666.6666666665
+23;GK;Alban Hoxha;23 November 1987 (aged 28);1;0;Partizani;Albania;550000.0
+1;GK;Yann Sommer;7 December 1988 (aged 27);18;0;Borussia Mönchengladbach;Switzerland;10000000.0
+2;DF;Stephan Lichtsteiner;16 January 1984 (aged 32);81;5;Juventus;Switzerland;6166666.666666667
+3;DF;François Moubandje;21 June 1990 (aged 25);11;0;Toulouse;Switzerland;1500000.0
+4;DF;Nico Elvedi;30 September 1996 (aged 19);1;0;Borussia Mönchengladbach;Switzerland;4333333.333333333
+5;DF;Steve von Bergen;10 June 1983 (aged 33);50;0;Young Boys;Switzerland;1000000.0
+6;DF;Michael Lang;8 February 1991 (aged 25);17;2;Basel;Switzerland;4350000.0
+7;FW;Breel Embolo;14 February 1997 (aged 19);10;1;Basel;Switzerland;20666666.666666668
+8;MF;Fabian Frei;8 January 1989 (aged 27);8;1;Mainz 05;Switzerland;3333333.3333333335
+9;FW;Haris Seferovic;22 February 1992 (aged 24);30;7;Eintracht Frankfurt;Switzerland;5700000.0
+10;MF;Granit Xhaka;27 September 1992 (aged 23);43;6;Borussia Mönchengladbach;Switzerland;31666666.666666668
+11;MF;Valon Behrami;19 April 1985 (aged 31);66;2;Watford;Switzerland;2666666.6666666665
+12;GK;Marwin Hitz;18 September 1987 (aged 28);2;0;FC Augsburg;Switzerland;4500000.0
+13;DF;Ricardo Rodríguez;25 August 1992 (aged 23);37;0;VfL Wolfsburg;Switzerland;26000000.0
+14;MF;Denis Zakaria;20 November 1996 (aged 19);2;0;Young Boys;Switzerland;3625000.0
+15;MF;Blerim Džemaili;12 April 1986 (aged 30);48;6;Genoa;Switzerland;3500000.0
+16;MF;Gelson Fernandes;2 September 1986 (aged 29);56;2;Rennes;Switzerland;3000000.0
+17;FW;Shani Tarashaj;7 February 1995 (aged 21);4;0;Grasshopper;Switzerland;4000000.0
+18;FW;Admir Mehmedi;16 March 1991 (aged 25);42;4;Bayer Leverkusen;Switzerland;5666666.666666667
+19;FW;Eren Derdiyok;12 June 1988 (aged 27);52;10;Kasımpaşa;Switzerland;4483333.333333333
+20;DF;Johan Djourou;18 January 1987 (aged 29);60;2;Hamburger SV;Switzerland;3500000.0
+21;GK;Roman Bürki;14 November 1990 (aged 25);5;0;Borussia Dortmund;Switzerland;6000000.0
+22;DF;Fabian Schär;20 December 1991 (aged 24);20;5;1899 Hoffenheim;Switzerland;4166666.6666666665
+23;MF;Xherdan Shaqiri;10 October 1991 (aged 24);53;17;Stoke City;Switzerland;15333333.333333334
+1;GK;Joe Hart;19 April 1987 (aged 29);59;0;Manchester City;England;16250000.0
+2;DF;Kyle Walker;28 May 1990 (aged 26);16;0;Tottenham Hotspur;England;14333333.333333334
+3;DF;Danny Rose;2 July 1990 (aged 25);4;0;Tottenham Hotspur;England;13000000.0
+4;MF;James Milner;4 January 1986 (aged 30);60;1;Liverpool;England;14666666.666666666
+5;DF;Gary Cahill;19 December 1985 (aged 30);43;3;Chelsea;England;16333333.333333334
+6;DF;Chris Smalling;22 November 1989 (aged 26);25;1;Manchester United;England;19666666.666666668
+7;MF;Raheem Sterling;8 December 1994 (aged 21);23;2;Manchester City;England;46666666.666666664
+8;MF;Adam Lallana;10 May 1988 (aged 28);23;0;Liverpool;England;18666666.666666668
+9;FW;Harry Kane;28 July 1993 (aged 22);12;5;Tottenham Hotspur;England;36666666.666666664
+10;FW;Wayne Rooney;24 October 1985 (aged 30);111;52;Manchester United;England;35000000.0
+11;FW;Jamie Vardy;11 January 1987 (aged 29);8;3;Leicester City;England;16666666.666666666
+12;DF;Nathaniel Clyne;5 April 1991 (aged 25);12;0;Liverpool;England;20666666.666666668
+13;GK;Fraser Forster;17 March 1988 (aged 28);6;0;Southampton;England;14000000.0
+14;MF;Jordan Henderson;17 June 1990 (aged 25);26;0;Liverpool;England;28000000.0
+15;FW;Daniel Sturridge;1 September 1989 (aged 26);18;5;Liverpool;England;25000000.0
+16;DF;John Stones;28 May 1994 (aged 22);10;0;Everton;England;30250000.0
+17;MF;Eric Dier;15 January 1994 (aged 22);7;1;Tottenham Hotspur;England;17000000.0
+18;MF;Jack Wilshere;1 January 1992 (aged 24);31;2;Arsenal;England;23666666.666666668
+19;MF;Ross Barkley;5 December 1993 (aged 22);22;2;Everton;England;21666666.666666668
+20;MF;Dele Alli;11 April 1996 (aged 20);8;1;Tottenham Hotspur;England;17333333.333333332
+21;DF;Ryan Bertrand;5 August 1989 (aged 26);8;0;Southampton;England;13333333.333333334
+22;FW;Marcus Rashford;31 October 1997 (aged 18);1;1;Manchester United;England;6500000.0
+23;GK;Tom Heaton;15 April 1986 (aged 30);1;0;Burnley;England;3000000.0
+1;GK;Igor Akinfeev;8 April 1986 (aged 30);86;0;CSKA Moscow;Russia;13333333.333333334
+2;DF;Roman Shishkin;27 January 1987 (aged 29);10;0;Lokomotiv Moscow;Russia;3166666.6666666665
+3;DF;Igor Smolnikov;8 August 1988 (aged 27);12;0;Zenit Saint Petersburg;Russia;9500000.0
+5;DF;Roman Neustädter;18 February 1988 (aged 28);1;0;Schalke 04;Russia;7000000.0
+7;MF;Artur Yusupov;1 September 1989 (aged 26);2;0;Zenit Saint Petersburg;Russia;4000000.0
+8;MF;Denis Glushakov;27 January 1987 (aged 29);42;4;Spartak Moscow;Russia;5125000.0
+9;FW;Aleksandr Kokorin;19 March 1991 (aged 25);37;11;Zenit Saint Petersburg;Russia;6500000.0
+13;MF;Aleksandr Golovin;30 May 1996 (aged 20);3;2;CSKA Moscow;Russia;2200000.0
+15;MF;Roman Shirokov;6 July 1981 (aged 34);53;13;CSKA Moscow;Russia;1000000.0
+17;MF;Oleg Shatov;29 June 1990 (aged 25);21;2;Zenit Saint Petersburg;Russia;12250000.0
+18;MF;Oleg Ivanov;4 August 1986 (aged 29);3;0;Terek Grozny;Russia;3833333.3333333335
+19;MF;Aleksandr Samedov;19 July 1984 (aged 31);28;3;Lokomotiv Moscow;Russia;4000000.0
+22;FW;Artem Dzyuba;22 August 1988 (aged 27);16;8;Zenit Saint Petersburg;Russia;9000000.0
+1;GK;Wayne Hennessey;24 January 1987 (aged 29);57;0;Crystal Palace;Wales;3500000.0
+2;DF;Chris Gunter;21 July 1989 (aged 26);67;0;Reading;Wales;2500000.0
+3;DF;Neil Taylor;7 February 1989 (aged 27);28;0;Swansea City;Wales;5166666.666666667
+4;DF;Ben Davies;24 April 1993 (aged 23);20;0;Tottenham Hotspur;Wales;8333333.333333333
+5;DF;James Chester;23 January 1989 (aged 27);11;0;West Bromwich Albion;Wales;5666666.666666667
+6;DF;Ashley Williams;23 August 1984 (aged 31);59;1;Swansea City;Wales;7000000.0
+7;MF;Joe Allen;14 March 1990 (aged 26);25;0;Liverpool;Wales;9333333.333333334
+8;MF;Andy King;29 October 1988 (aged 27);33;2;Leicester City;Wales;3333333.3333333335
+9;FW;Hal Robson-Kanu;21 May 1989 (aged 27);30;2;Reading;Wales;2333333.3333333335
+10;MF;Aaron Ramsey;26 December 1990 (aged 25);39;10;Arsenal;Wales;31666666.666666668
+11;FW;Gareth Bale;16 July 1989 (aged 26);55;19;Real Madrid;Wales;83333333.33333333
+12;GK;Owain Fôn Williams;17 March 1987 (aged 29);1;0;Inverness Caledonian Thistle;Wales;250000.0
+13;FW;George Williams;7 September 1995 (aged 20);7;0;Gillingham;Wales;500000.0
+14;MF;David Edwards;3 February 1986 (aged 30);32;3;Wolverhampton Wanderers;Wales;850000.0
+15;DF;Jazz Richards;12 April 1991 (aged 25);9;0;Fulham;Wales;750000.0
+16;MF;Joe Ledley;23 January 1987 (aged 29);61;4;Crystal Palace;Wales;3833333.3333333335
+17;FW;David Cotterill;4 December 1987 (aged 28);23;2;Birmingham City;Wales;750000.0
+18;FW;Sam Vokes;21 October 1989 (aged 26);40;6;Burnley;Wales;3750000.0
+19;DF;James Collins;23 August 1983 (aged 32);47;3;West Ham United;Wales;2000000.0
+20;MF;Jonny Williams;9 October 1993 (aged 22);12;0;Milton Keynes Dons;Wales;833333.3333333334
+21;GK;Danny Ward;22 June 1993 (aged 22);2;0;Liverpool;Wales;1333333.3333333333
+22;MF;David Vaughan;18 February 1983 (aged 33);42;1;Nottingham Forest;Wales;1166666.6666666667
+23;FW;Simon Church;10 December 1988 (aged 27);36;3;Aberdeen;Wales;500000.0
+1;GK;Ján Mucha;5 December 1982 (aged 33);46;0;Slovan Bratislava;Slovakia;433333.3333333333
+2;DF;Peter Pekarík;30 October 1986 (aged 29);67;2;Hertha BSC;Slovakia;2583333.3333333335
+3;DF;Martin Škrtel;15 December 1984 (aged 31);81;5;Liverpool;Slovakia;10333333.333333334
+4;DF;Ján Ďurica;10 December 1981 (aged 34);79;4;Lokomotiv Moscow;Slovakia;325000.0
+5;DF;Norbert Gyömbér;3 July 1992 (aged 23);13;0;Roma;Slovakia;833333.3333333334
+6;MF;Ján Greguš;29 January 1991 (aged 25);7;0;Baumit Jablonec;Slovakia;1083333.3333333333
+7;MF;Vladimír Weiss;30 November 1989 (aged 26);52;4;Al-Gharafa;Slovakia;2966666.6666666665
+8;MF;Ondrej Duda;5 December 1994 (aged 21);11;1;Legia Warsaw;Slovakia;3675000.0
+9;FW;Stanislav Šesták;16 December 1982 (aged 33);65;13;Ferencváros;Slovakia;500000.0
+10;MF;Miroslav Stoch;19 October 1989 (aged 26);54;6;Bursaspor;Slovakia;4666666.666666667
+11;FW;Adam Nemec;2 September 1985 (aged 30);22;6;Willem II;Slovakia;387500.0
+12;GK;Ján Novota;29 November 1983 (aged 32);3;0;Rapid Wien;Slovakia;600000.0
+13;MF;Patrik Hrošovský;22 April 1992 (aged 24);12;0;Viktoria Plzeň;Slovakia;2062500.0
+14;DF;Milan Škriniar;11 February 1995 (aged 21);2;0;Sampdoria;Slovakia;800000.0
+15;DF;Tomáš Hubočan;17 September 1985 (aged 30);44;0;Dynamo Moscow;Slovakia;4625000.0
+16;DF;Kornel Saláta;24 January 1985 (aged 31);37;2;Slovan Bratislava;Slovakia;500000.0
+17;MF;Marek Hamšík;27 July 1987 (aged 28);87;18;Napoli;Slovakia;36000000.0
+18;DF;Dušan Švento;1 August 1985 (aged 30);39;1;1. FC Köln;Slovakia;812500.0
+19;MF;Juraj Kucka;26 February 1987 (aged 29);47;5;Milan;Slovakia;7750000.0
+20;MF;Róbert Mak;8 March 1991 (aged 25);27;7;PAOK;Slovakia;3666666.6666666665
+21;FW;Michal Ďuriš;1 June 1988 (aged 28);26;4;Viktoria Plzeň;Slovakia;1820000.0
+22;MF;Viktor Pečovský;24 May 1983 (aged 33);32;1;Žilina;Slovakia;350000.0
+23;GK;Matúš Kozáčik;27 December 1983 (aged 32);17;0;Viktoria Plzeň;Slovakia;1000000.0
+1;GK;Manuel Neuer;27 March 1986 (aged 30);65;0;Bayern Munich;Germany;45000000.0
+2;DF;Shkodran Mustafi;17 April 1992 (aged 24);10;0;Valencia;Germany;22800000.0
+3;DF;Jonas Hector;27 May 1990 (aged 26);14;1;1. FC Köln;Germany;11000000.0
+4;DF;Benedikt Höwedes;29 February 1988 (aged 28);34;2;Schalke 04;Germany;16666666.666666666
+5;DF;Mats Hummels;16 December 1988 (aged 27);46;4;Borussia Dortmund;Germany;36000000.0
+6;MF;Sami Khedira;4 April 1987 (aged 29);60;5;Juventus;Germany;19333333.333333332
+7;MF;Bastian Schweinsteiger;1 August 1984 (aged 31);115;23;Manchester United;Germany;11250000.0
+8;MF;Mesut Özil;15 October 1988 (aged 27);73;19;Arsenal;Germany;50000000.0
+9;MF;André Schürrle;6 November 1990 (aged 25);52;20;VfL Wolfsburg;Germany;20333333.333333332
+10;FW;Lukas Podolski;4 June 1985 (aged 31);128;48;Galatasaray;Germany;8000000.0
+11;MF;Julian Draxler;20 September 1993 (aged 22);19;1;VfL Wolfsburg;Germany;24666666.666666668
+12;GK;Bernd Leno;4 March 1992 (aged 24);1;0;Bayer Leverkusen;Germany;16000000.0
+13;FW;Thomas Müller;13 September 1989 (aged 26);71;32;Bayern Munich;Germany;75000000.0
+14;MF;Emre Can;12 January 1994 (aged 22);6;0;Liverpool;Germany;17000000.0
+15;MF;Julian Weigl;8 September 1995 (aged 20);1;0;Borussia Dortmund;Germany;13250000.0
+16;DF;Jonathan Tah;11 February 1996 (aged 20);1;0;Bayer Leverkusen;Germany;12500000.0
+17;DF;Jérôme Boateng;3 September 1988 (aged 27);59;0;Bayern Munich;Germany;41666666.666666664
+18;MF;Toni Kroos;4 January 1990 (aged 26);65;11;Real Madrid;Germany;53750000.0
+19;MF;Mario Götze;3 June 1992 (aged 24);52;17;Bayern Munich;Germany;34500000.0
+20;MF;Leroy Sané;11 January 1996 (aged 20);3;0;Schalke 04;Germany;22000000.0
+21;DF;Joshua Kimmich;8 February 1995 (aged 21);1;0;Bayern Munich;Germany;12750000.0
+22;GK;Marc-André ter Stegen;30 April 1992 (aged 24);6;0;Barcelona;Germany;15750000.0
+23;FW;Mario Gómez;10 July 1985 (aged 30);64;27;Beşiktaş;Germany;11333333.333333334
+1;GK;Denys Boyko;29 January 1988 (aged 28);4;0;Beşiktaş;Ukraine;3250000.0
+2;DF;Bohdan Butko;13 January 1991 (aged 25);17;0;Amkar Perm;Ukraine;1933333.3333333333
+3;DF;Yevhen Khacheridi;28 July 1987 (aged 28);42;3;Dynamo Kyiv;Ukraine;8500000.0
+4;MF;Anatoliy Tymoshchuk;30 March 1979 (aged 37);143;4;Kairat Almaty;Ukraine;125000.0
+5;DF;Oleksandr Kucher;22 October 1982 (aged 33);50;2;Shakhtar Donetsk;Ukraine;1100000.0
+6;MF;Taras Stepanenko;8 August 1989 (aged 26);29;3;Shakhtar Donetsk;Ukraine;8000000.0
+7;FW;Andriy Yarmolenko;23 October 1989 (aged 26);59;25;Dynamo Kyiv;Ukraine;22000000.0
+8;FW;Roman Zozulya;17 November 1989 (aged 26);26;4;Dnipro Dnipropetrovsk;Ukraine;3250000.0
+9;MF;Viktor Kovalenko;14 February 1996 (aged 20);3;0;Shakhtar Donetsk;Ukraine;4750000.0
+10;MF;Yevhen Konoplyanka;29 September 1989 (aged 26);53;13;Sevilla;Ukraine;23250000.0
+11;FW;Yevhen Seleznyov;20 July 1985 (aged 30);50;11;Kuban Krasnodar;Ukraine;3000000.0
+12;GK;Andriy Pyatov;28 June 1984 (aged 31);64;0;Shakhtar Donetsk;Ukraine;4000000.0
+13;DF;Vyacheslav Shevchuk;13 May 1979 (aged 37);54;0;Shakhtar Donetsk;Ukraine;200000.0
+14;MF;Ruslan Rotan;29 October 1981 (aged 34);88;7;Dnipro Dnipropetrovsk;Ukraine;900000.0
+15;FW;Pylyp Budkivskyi;10 March 1992 (aged 24);6;0;Zorya Luhansk;Ukraine;2500000.0
+16;MF;Serhiy Sydorchuk;2 May 1991 (aged 25);12;2;Dynamo Kyiv;Ukraine;4500000.0
+17;DF;Artem Fedetskyi;26 April 1985 (aged 31);49;2;Dnipro Dnipropetrovsk;Ukraine;2250000.0
+19;MF;Denys Harmash;19 April 1990 (aged 26);27;2;Dynamo Kyiv;Ukraine;4500000.0
+21;DF;Oleksandr Zinchenko;15 December 1996 (aged 19);3;1;Ufa;Ukraine;4000000.0
+22;MF;Oleksandr Karavayev;2 June 1992 (aged 24);3;0;Zorya Luhansk;Ukraine;2500000.0
+23;GK;Mykyta Shevchenko;26 January 1993 (aged 23);0;0;Zorya Luhansk;Ukraine;2500000.0
+1;GK;Wojciech Szczęsny;18 April 1990 (aged 26);26;0;Roma;Poland;11333333.333333334
+2;DF;Michał Pazdan;21 September 1987 (aged 28);17;0;Legia Warsaw;Poland;1975000.0
+3;DF;Artur Jędrzejczyk;4 November 1987 (aged 28);19;3;Legia Warsaw;Poland;3240000.0
+4;DF;Thiago Cionek;21 April 1986 (aged 30);6;0;Palermo;Poland;900000.0
+5;MF;Krzysztof Mączyński;23 May 1987 (aged 29);16;1;Wisła Kraków;Poland;1050000.0
+6;MF;Tomasz Jodłowiec;8 September 1985 (aged 30);44;1;Legia Warsaw;Poland;1550000.0
+7;FW;Arkadiusz Milik;28 February 1994 (aged 22);26;10;Ajax;Poland;11800000.0
+8;MF;Karol Linetty;2 February 1995 (aged 21);10;1;Lech Poznań;Poland;3100000.0
+9;FW;Robert Lewandowski;21 August 1988 (aged 27);76;34;Bayern Munich;Poland;73333333.33333333
+10;MF;Grzegorz Krychowiak;29 January 1990 (aged 26);34;2;Sevilla;Poland;28333333.333333332
+11;MF;Kamil Grosicki;8 June 1988 (aged 28);39;8;Rennes;Poland;3833333.3333333335
+12;GK;Artur Boruc;20 February 1980 (aged 36);63;0;Bournemouth;Poland;1000000.0
+13;FW;Mariusz Stępiński;12 May 1995 (aged 21);3;0;Ruch Chorzów;Poland;1360000.0
+14;DF;Jakub Wawrzyniak;7 July 1983 (aged 32);49;1;Lechia Gdańsk;Poland;350000.0
+15;DF;Kamil Glik;3 February 1988 (aged 28);41;3;Torino;Poland;10666666.666666666
+16;MF;Jakub Błaszczykowski;14 December 1985 (aged 30);79;16;Fiorentina;Poland;7333333.333333333
+17;MF;Sławomir Peszko;19 February 1985 (aged 31);37;2;Lechia Gdańsk;Poland;425000.0
+18;DF;Bartosz Salamon;1 May 1991 (aged 25);8;0;Cagliari;Poland;2200000.0
+19;MF;Piotr Zieliński;20 May 1994 (aged 22);15;3;Empoli;Poland;9800000.0
+20;DF;Łukasz Piszczek;3 June 1985 (aged 31);46;2;Borussia Dortmund;Poland;6333333.333333333
+21;MF;Bartosz Kapustka;23 December 1996 (aged 19);7;2;Cracovia;Poland;3600000.0
+22;GK;Łukasz Fabiański;18 April 1985 (aged 31);30;0;Swansea City;Poland;7666666.666666667
+23;MF;Filip Starzyński;27 May 1991 (aged 25);3;1;Zagłębie Lubin;Poland;787500.0
+1;GK;Michael McGovern;12 July 1984 (aged 31);11;0;Hamilton Academical;Northern Ireland;500000.0
