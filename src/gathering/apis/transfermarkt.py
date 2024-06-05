@@ -14,7 +14,11 @@ def _market_value_from_id(id: str, year: int = None) -> int:
     if year is None:
         return data[-1]["y"]
     as_df = pd.DataFrame(data)
-    only_specified_year = as_df[as_df.datum_mw.str.endswith(str(year))]
+    try:
+        only_specified_year = as_df[as_df.datum_mw.str.endswith(str(year))]
+    except Exception as e:
+        logger.error(as_df)
+        raise ValueError(f"Failed to get market value for player with id {id}")
     if only_specified_year.empty:
         try:
             only_previous_year = as_df[as_df.datum_mw.str.endswith(str(year-1))]
