@@ -1,16 +1,20 @@
 from argparse import ArgumentParser
-from gather import gather_tournament_data
-from clean import format_training_data
-from model import avg_predictor
-
+from gathering import gather_tournament_data
+from cleaning import clean_data
+from model import train_linear_regression
 
 if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument(
-        "--years", type=int, nargs="+", help="Years of the tournaments to gather or format data for (must be valid euro year, e.g. 2020, 2024, etc.)"
+        "--years",
+        type=int,
+        nargs="+",
+        help="Years of the tournaments to gather or format data for (must be valid euro year, e.g. 2020, 2024, etc.)",
     )
     parser.add_argument(
-        "--gather", action='store_true', help="Gather data from wikipedia and transfermarkt"
+        "--gather",
+        action="store_true",
+        help="Gather data from wikipedia and transfermarkt",
     )
     parser.add_argument(
         "--timeout",
@@ -24,24 +28,29 @@ if __name__ == "__main__":
         help="Continue gathering data for a year that was previously started",
     )
     parser.add_argument(
-        "--clean", action='store_true', help="Format gathered data into the format used by the model"
+        "--clean",
+        action="store_true",
+        help="Format gathered data into the format used by the model",
     )
     parser.add_argument(
-        "--train", action='store_true', help="Train the model on the formatted data"
+        "--train", action="store_true", help="Train the model on the formatted data"
+    )
+    parser.add_argument(
+        "--all", action="store_true", help="Run complete pipeline from gathering to training"
+    )
+    parser.add_argument(
+        "--inference", action="store_true", help="Whether to run data pipeline for inference or training"
     )
 
     args = parser.parse_args()
 
-    if args.gather:
+    if args.gather or args.all:
         for year in args.years:
             gather_tournament_data(year, args.timeout, args.continue_previous)
 
-    if args.clean:
+    if args.clean or args.all:
         for year in args.years:
-            format_training_data(year)
+            clean_data(year, args.inference)
 
-    if args.train:
-        # train linear regression model
-        avg_predictor.linear_regression(args.years)
-    
-    args = parser.parse_args()
+    if args.train or args.all:
+        train_linear_regression(args.years)

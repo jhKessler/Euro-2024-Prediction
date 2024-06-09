@@ -1,33 +1,21 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.linear_model import LinearRegression
 import pickle
-import os
 from loguru import logger
+from matplotlib import pyplot as plt
+import pandas as pd
+from sklearn.linear_model import LinearRegression
 
 
-def linear_regression(years: list[int], verbose: bool = True):
-    """Trains a linear regression model on the market value distance between two teams and the goals scored by the first team
-    saves the model to data/models/linear_regression.pkl
-
-    Args:
-        years (list[int]): list of years to train the model on
-        verbose (bool, optional): whether to plot the regression line. Defaults to True.
-    """
-    os.makedirs("data/models", exist_ok=True)
+def train_linear_regression(years: list[int], verbose: bool = True):
     data = None
     for year in years:
+        logger.info(f"Loading data for year {year}")
         if data is None:
-            data = pd.read_csv(f"data/cleaned/{year}_train_games.csv", sep=";")
+            data = pd.read_csv(f"data/cleaned/{year}_games.csv", sep=";")
         else:
-            data = pd.concat(
-                [data, pd.read_csv(f"data/cleaned/{year}_train_games.csv", sep=";")]
-            )
-    data.drop(columns=["team2_goals"], inplace=True)
+            data = pd.concat([data, pd.read_csv(f"data/cleaned/{year}_games.csv", sep=";")])
 
-    X = data[["market_value_distance"]]
-    y = data["team1_goals"]
+    X = data[["team1_market_value_distance"]].values
+    y = data["team1_goals"].values
 
     model = LinearRegression()
     model.fit(X, y)
@@ -47,13 +35,13 @@ def linear_regression(years: list[int], verbose: bool = True):
     # Plotting
     plt.figure(figsize=(8, 4))
     plt.scatter(
-        data["market_value_distance"],
+        data["team1_market_value_distance"],
         data["team1_goals"],
         color="blue",
         label="Actual goals",
     )
     plt.plot(
-        data["market_value_distance"],
+        data["team1_market_value_distance"],
         data["predicted_goals"],
         color="red",
         label="Regression Line",

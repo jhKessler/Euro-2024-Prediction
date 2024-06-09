@@ -16,5 +16,8 @@ def get_all_players(year: int = 2024) -> pd.DataFrame:
     for country, team in zip(country_order, teams):
         team["Country"] = country
     teams = pd.concat(teams).dropna(subset=["No."])
-    teams["Player"] = teams["Player"].str.replace(r'\(.*?\)', '', regex=True).str.strip()
+    teams["Player"] = (
+        # replace all text between parentheses in player name for example (captain)
+        teams["Player"].str.replace(r"\(.*?\)", "", regex=True).str.strip()
+    )
     return teams
