@@ -26,17 +26,20 @@ class GoalSampler:
             int: number of goals scored by the team
         """
         expected_goals = self.model.predict([[market_value_distance]])[0]
-        return np.random.poisson(expected_goals)
+        return expected_goals#np.random.poisson(max(expected_goals, 0))
     
     
-    def get_knockout_stage_winner(self, team1: str, team2: str, team1_market_value: float, team2_market_value: float) -> str:
+    def get_knockout_stage_winner(self, team1: str, team2: str, team1_market_value: float, team2_market_value: float) -> list[str, int, int]:
         distance = (team1_market_value - team2_market_value)
         team1_goals = self.sample_goals(distance)
         team2_goals = self.sample_goals(-distance)
         if team1_goals == team2_goals:
-            # lets just assume penalties are random
-            return np.random.choice([team1, team2])
-        return team1 if team1_goals > team2_goals else team2
+            # penalties
+            team1_goals += np.random.poisson(3.7)
+            team2_goals += np.random.poisson(3.7)
+            if team1_goals == team2_goals:
+                return np.random.choice([team1, team2]), team1_goals, team2_goals
+        return team1 if team1_goals > team2_goals else team2, team1_goals, team2_goals
     
 
     def __call__(self, market_value_distance: float) -> int:

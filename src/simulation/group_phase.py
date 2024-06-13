@@ -182,9 +182,9 @@ def get_group_phase_results(group_phase_games: pd.DataFrame) -> GroupStageResult
 def simulate_group_phase(group_phase_games: pd.DataFrame) -> GroupStageResult:
     group_phase_games["team1_goals"] = group_phase_games[
         "team1_market_value_distance"
-    ].apply(goal_sampler)
+    ].apply(goal_sampler).round()
     group_phase_games["team2_goals"] = group_phase_games[
         "team2_market_value_distance"
-    ].apply(goal_sampler)
-
+    ].apply(goal_sampler).round()
+    return group_phase_games
     return get_group_phase_results(group_phase_games)
